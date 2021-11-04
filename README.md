@@ -1,2 +1,4 @@
-# Game-arduino
-Game for arduino
+MicroView-Arkanoid
+==================
+
+Simple Arkanoid-alike demo game for the Arduino compatible MicroView chip
